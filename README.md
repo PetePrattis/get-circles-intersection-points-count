@@ -8,7 +8,7 @@ and is one of a few such simple python programms neccessary to pass the class_
 
 > #### Description of project
 >
->>A program in python which for a movie title inserted by user, using the link http://www.omdbapi.com/ returns the IMDB score and the awards of that movie.
+>>A program in Python which creates 20 random circles on a 1024x1024 image, with radius from 10-500 . The program will show how many circles intersect with each other and at the end it prints the image with the circles.
 
 > #### About this project
 >
