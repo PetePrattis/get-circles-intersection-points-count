@@ -1,12 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
 
-#Author Παναγιώτης Πράττης-Panagiotis Prattis Π15120
-#This is the 4th exercise from the python exercise series for the class "ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΕΠΙΣΤΗΜΗ ΤΩΝ ΥΠΟΛΟΓΙΣΤΩΝ - COMPUTER SCIENCE INTRODUCTION", University of Pireus
-#Project's demands:
-#Write a code which will create 20 random circles on a 1024x1024 image, with radius from 10-500 . The programm will show how many circles intersect with each other and at the end it will print the image with the circles.
+#Author Παναγιώτης Πράττης/Panagiotis Prattis
 
-
+'''
+'''
 
 from PIL import Image, ImageDraw
 import random
